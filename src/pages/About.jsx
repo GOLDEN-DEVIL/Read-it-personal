@@ -24,13 +24,13 @@ const About = () => {
           </p>
         </div>
         <div className="section2">
-          <img className="image1" src="public/images/5625806.jpg" alt="" />
+          <img className="image1" src="/images/5625806.jpg" alt="" />
         </div>
       </div>
 
       <div className="block1">
         <div className="section3">
-          <img className="image2" src="public/images/person_cat.jpg" alt="" />
+          <img className="image2" src="/images/person_cat.jpg" alt="" />
         </div>
         <div className="section4">
           <h1 className="heading1">Why Choose Us</h1>
